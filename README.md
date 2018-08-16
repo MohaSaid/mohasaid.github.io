@@ -1,6 +1,6 @@
 ## Mohamed Said Benmousa
 
-#### This is the repository for my personal web page 🤘:metal:
+#### This is the repository for my personal web page :metal:
 
 I will try to write about things that I find interesting throughout my apprenticeship.
 
