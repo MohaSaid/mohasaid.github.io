@@ -4,6 +4,4 @@
 
 I will try to write about things that I find interesting throughout my apprenticeship.
 
-The website is under construction.
-
 Build using [Jekyll](https://jekyllrb.com), using [Kiko-plus theme](https://github.com/aweekj/kiko-now) for Jekyll.
