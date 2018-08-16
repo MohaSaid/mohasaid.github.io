@@ -52,7 +52,7 @@ my linkedin which is in the footer or you can email me :)
 : Software Engineer
 : December 2016 - **Today**
 
-[CSB - Computer Sciences Brand S.L.](http://www.csb-bi.net/)
+[CSB](http://www.csb-bi.net/)
 : Software Engineer
 : February 2016 - December 2016
 
