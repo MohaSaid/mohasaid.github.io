@@ -1,80 +1,57 @@
-#
-# This file contains configuration flags to customize your site
-#
+################
+#     Moha     #
+################
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: Mohamed Said Benmousa
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Software engineer
 
-#
-# Flags below are optional
-#
+# URL of your avatar or profile pic
+avatar: https://avatars2.githubusercontent.com/u/9529785?s=400&u=a4663a82f6e8ef07d91968df9e8b3d813a008c0b&v=4
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-
-# Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
-# and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
-# it from the list(Delete '- name: ' and 'url: ', too!)
+# Tabs in header.
 navigation:
-  - name: Blog
-    url: /
-  - name: About
-    url: /about
-  - name: Archive
-    url: /archive
-  - name: Tags
-    url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+- name: Home
+  url: /
+- name: About me
+  url: /about
+- name: Archive
+  url: /archive
+- name: Tags
+  url: /tags
 
 # Pagination
 paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: # https://www.behance.net/<username>
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: AWEEKJ/kiko-now
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
-  youtube: # channel/<your_long_string> or user/<user-name>
+  email: mohamedbenmousa@gmail.com
+  github: mohasaid
+  linkedin: mohamed-said-benmousa-001710125
+  stackoverflow: users/4713109/mohamed-said-benmousa
+  rss: anything # just type anything here for a working RSS icon
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: © 2018 Mohamed Said Benmousa. All rights reserved.
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
+# Disqus shortname to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: # <username>.disqus.com
+disqus: mohamedsaidbenmousa.disqus.com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-124088306-1
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Website URL
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://mohasaid.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl:
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+baseurl: ""
 
 permalink: /:title/
 paginate_path: /page:num/
@@ -94,18 +71,18 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-paginate
+- jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+- jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+- jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- CNAME
