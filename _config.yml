@@ -21,6 +21,8 @@ navigation:
   url: /archive
 - name: Tags
   url: /tags
+- name: Resume
+  url: /resume
 
 # Pagination
 paginate: 5
