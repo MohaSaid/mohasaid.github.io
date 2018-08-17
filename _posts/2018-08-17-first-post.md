@@ -1,15 +1,21 @@
 ---
 layout: post
-title: My first post!
+title: My very first post!
 tags:
   - first
   - random
 comments: true
 ---
 
-This is the **first post** of my blog. Here begins a new adventure for me.
+To be honest, I really don’t know how to start off my **very first blog post EVER**!
 
-In this blog I will try to focus on computer science concepts or interests 
-that I have or I discover (you can find more in [about section](/about)) and experiences that I have as well.
+I always wanted to have my own blog where I could share whatever I wanted with the world. 
+I think this is a great way to express myself and to show the world what I’m interested in 
+(you can find more in my _self-marketing web pages_ AKA [About section](/about) or [Linkedin](https://www.linkedin.com/in/mohamed-said-benmousa-001710125/)). 
+ 
+I will be posting different kind of things in the future about computer science concepts or interests 
+that I have or I discover and all other things I wanna post about!
 
-Throughout the posts I will explain why I do this and where I intend to go with this. I also hope you know me better. So let's get ready for the adventure! 
+I’m so excited about this entire blog and I hope you’re too! So let's get ready for the adventure! 
+
+ 
