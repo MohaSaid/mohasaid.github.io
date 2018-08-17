@@ -7,6 +7,8 @@ tags:
 comments: true
 ---
 
+In this post, I will try to summarize what I want to achieve with that blog and what can be expected from it.
+
 ## Why this blog
 
 Some years ago, when I started to get involved to the software world, learning new algorithms and new programming languages was my main goal. 
