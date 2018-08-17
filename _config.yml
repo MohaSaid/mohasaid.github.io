@@ -53,7 +53,7 @@ url: https://mohasaid.github.io/
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-permalink: /:title/
+permalink: /404.md
 paginate_path: /page:num/
 
 # The release of Jekyll Now that you're using
