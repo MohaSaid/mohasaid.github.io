@@ -32,6 +32,7 @@ If I had to summarize my interests in computer science I think the keywords that
 - SOLID principles
 - Design patterns
 - Algorithms
+- Data structures
 - Architectures
 - Scalability
 - Object oriented programming (OOP) 
