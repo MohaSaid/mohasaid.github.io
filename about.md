@@ -24,8 +24,8 @@ as I always wondered how those games were made. Then I went to the university an
 And since then I keep learning new technologies every day in order to create new software to help me and others for the every-day life. To achieve that, 
 in my free time I try to learn something or contribute to open source.
 
-I also like to travel in order to learn new cultures and traditions; go to the beach, spend time with
-my friends, go to the cinema, read and attend hackathons or meetups!
+I also like to travel in order to learn about new cultures and traditions. In my free time, I like to do sports and go to the gym.
+I love spending time with my friends and whenever I can, I try to go to the beach, go to the cinema, read books and attend hackathons or meetups!
 
 If I had to summarize my interests in computer science I think the keywords that I would say would be:
 
