@@ -49,9 +49,13 @@ In this blog I will try to write about those topics apart from any experience th
 The experience that I have can be summarized to the following, but if you want to know more details you can check
 my linkedin which is in the footer or you can email me :)
 
+[21 Buttons](https://www.21buttons.com/)
+: Software Engineer
+: January 2019 - **Now**
+
 [Spaceboost](https://www.spaceboost.com/)
 : Software Engineer
-: December 2016 - **Today**
+: December 2016 - January 2019
 
 [CSB](http://www.csb-bi.net/)
 : Software Engineer
