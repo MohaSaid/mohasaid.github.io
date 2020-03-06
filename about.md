@@ -49,9 +49,13 @@ In this blog I will try to write about those topics apart from any experience th
 The experience that I have can be summarized to the following, but if you want to know more details you can check
 my linkedin which is in the footer or you can email me :)
 
+[Adevinta](https://www.adevinta.com/es/)
+: Software Engineer
+: November 2019 - **Now**
+
 [21 Buttons](https://www.21buttons.com/)
 : Software Engineer
-: January 2019 - **Now**
+: January 2019 - November 2019
 
 [Spaceboost](https://www.spaceboost.com/)
 : Software Engineer
