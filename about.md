@@ -33,7 +33,9 @@ If I had to summarize my interests in computer science I think the keywords that
 - Design patterns
 - Algorithms
 - Data structures
-- Architectures
+- Hexagonal architecture
+- Domain Driven Design (DDD)
+- Test Driven Design (TDD)
 - Scalability
 - Object oriented programming (OOP) 
 - Agile methodologies
